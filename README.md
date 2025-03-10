@@ -1,1 +1,1 @@
-# Verificaci-n-de-variables-climatol-gicas
+# Verificacion-de-variables-climatologicas
